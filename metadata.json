@@ -1,0 +1,6 @@
+{
+  "name": "movieApp",
+  "identifier": "com.metrological.app.movieApp",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
